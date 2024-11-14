@@ -1,4 +1,4 @@
-package com.Eternity.code;
+package com.Eternity.code.model;
 
 
 public interface Computer {

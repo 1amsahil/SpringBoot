@@ -1,4 +1,4 @@
-package com.Eternity.code;
+package com.Eternity.code.model;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;

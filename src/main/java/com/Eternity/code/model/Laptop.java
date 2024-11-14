@@ -1,4 +1,4 @@
-package com.Eternity.code;
+package com.Eternity.code.model;
 
 import org.springframework.stereotype.Component;
 
